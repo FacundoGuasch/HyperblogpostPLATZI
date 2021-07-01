@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Hyperblogg
-Un repositorio genial para Git y GitHub
+# Hyperblock
+Un blog increible para el curso de Git y GitHub en platzi
 =======
-# Definitivo-hyperblog
-Ahora si espero que me deje
->>>>>>> 4fe7767b6b6504e628419d3aab07b80e696869a3
+# BlogGitHub
+este es un curso de git hub
+>>>>>>> 075bbad1193d04e647c181a3a0aa1ec18aad2438
